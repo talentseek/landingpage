@@ -86,8 +86,9 @@ blockquote h4 {
   border-bottom: 1px solid;
   display: inline-block;
 }
+
 a {
-  color: #FFF;
+  color: #000;
   text-decoration: none;
   outline: none;
 }
@@ -102,6 +103,7 @@ textarea:focus,
 textarea:hover {
   outline: none;
 }
+
 
 button:focus {
   outline: none;
@@ -653,6 +655,7 @@ ul.marshall-social-links li {
   transform: translate3d(0px, -2px, 0px);
   color: #f61067;
 }
+
 
 
 /* -----------------------------------------------------------------
